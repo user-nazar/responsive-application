@@ -1,3 +1,3 @@
 # Flutter framework
 
-The programming language:  Dart.
+* The programming language:  Dart.
